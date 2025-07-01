@@ -1,7 +1,7 @@
 flask==3.0.3
 python-dotenv==1.0.1
 requests==2.31.0
-PyMuPDF==1.23.16
+PyMuPDF==1.18.19
 langchain==0.1.17
 langchain-community==0.0.36
 langchain-huggingface==0.0.3
