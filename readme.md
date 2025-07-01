@@ -1,4 +1,4 @@
-# Gemini-RAG-Agent 
+# RAG-Gemini 
 
 A privacy-focused Retrieval-Augmented Generation (RAG) chatbot using Google Gemini and LangChain, capable of answering questions from user-uploaded documents (PDF or text). Built with Flask, it supports multi-file handling, vector store caching via ChromaDB, and HuggingFace embeddings.
 
@@ -32,7 +32,7 @@ Follow these steps to run the **Gemini-RAG-Agent** on your local machine:
 
 ### 1. **Clone the Repository**
 
-git clone https://github.com/n3utr7no/Gemini-RAG-Agent.git
+git clone https://github.com/n3utr7no/RAG-Gemini.git
 cd Gemini-RAG-Agent
 
 ### 2. **Install Dependencies**
